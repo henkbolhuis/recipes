@@ -3,7 +3,8 @@
 ## ingredients
 
 * Avocado
-* garlic
+* Garlic
 * Red onion
 * Tomato
+* Lime
 ## Intructions
