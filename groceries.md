@@ -12,7 +12,7 @@ sdfsdf
 
 # Hummus
 ## Ingredients
-* chickpeas
+* chicken
 * lemon
 * olive oil
 * salt
